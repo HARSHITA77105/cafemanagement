@@ -7,7 +7,7 @@ const Base=(props)=>{
 
             {props.children}
 
-            <h1>THis is footer</h1>
+            <h1>THis is header</h1>
 
         </div>
 
